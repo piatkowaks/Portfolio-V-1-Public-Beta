@@ -111,10 +111,10 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ---
 
 <p align="center">
-  <a href="https://github.com/your-username/portfolio">
+  <a href="[https://github.com/your-username/portfolio](https://github.com/Draftgamz/portfolio-v-6)">
     <img src="https://img.shields.io/github/forks/your-username/portfolio?style=social" alt="Forks">
   </a>
-  <a href="https://github.com/your-username/portfolio">
+  <a href="[https://github.com/your-username/portfolio](https://github.com/Draftgamz/portfolio-v-6)">
     <img src="https://img.shields.io/github/stars/your-username/portfolio?style=social" alt="Stars">
   </a>
 </p>

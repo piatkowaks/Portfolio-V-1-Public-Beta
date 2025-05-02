@@ -3,6 +3,10 @@
 [![Website Status](https://img.shields.io/badge/status-online-brightgreen)](https://draftgamz.github.io/portfolio-v-6)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Built with Vite](https://img.shields.io/badge/built%20with-Vite-yellow)](https://vitejs.dev/)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Draftgamz.portfolio-v-6)
+![Last Commit](https://img.shields.io/github/last-commit/Draftgamz/portfolio-v-6)
+![Repo Size](https://img.shields.io/github/repo-size/Draftgamz/portfolio-v-6)
+![Issues](https://img.shields.io/github/issues/Draftgamz/portfolio-v-6)
 
 
 Welcome to my **Personal Portfolio Website** — your one-stop showcase of my growth, creativity, and passion as a web developer! 🚀

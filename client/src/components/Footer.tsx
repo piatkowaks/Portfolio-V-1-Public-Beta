@@ -70,7 +70,7 @@ export default function Footer() {
     },
     {
       name: "Send Email",
-      href: "mailto:contact@shakshamdas09",
+      href: "mailto:contact@shakshamdas",
       external: false,
       icon: <Mail className="h-4 w-4" />,
     },
@@ -203,7 +203,7 @@ export default function Footer() {
               </p>
               <div className="flex items-center text-github-muted">
                 <Mail className="mr-2 h-4 w-4" />
-                <a href="mailto:contact@shakshamdas09" className="hover:text-github-blue transition-colors">
+                <a href="mailto:contact@shakshamdas" className="hover:text-github-blue transition-colors">
                   contact@draft
                 </a>
               </div>

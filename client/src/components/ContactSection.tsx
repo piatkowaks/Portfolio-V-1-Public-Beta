@@ -120,7 +120,7 @@ export default function ContactSection() {
       icon: <Mail className="h-5 w-5 text-github-blue" />, 
       title: "Email", 
       value: "contact@draft", 
-      link: "mailto:contact@shakshamdas09", 
+      link: "mailto:contact@shakshamdas", 
       hoverColor: "hover:bg-blue-600",
       description: "For business inquiries & collaboration"
     },

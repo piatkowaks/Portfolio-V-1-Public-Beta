@@ -18,6 +18,24 @@ Designed for a seamless experience, it’s fully responsive, modern, and easy to
 Feel free to explore, get inspired, and **connect** with me! 🤝✨
 
 ---
+# My Project Showcase🎁
+
+Here are some previews of the project:
+
+<p align="center">
+  <img src="images/1.png" width="45%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="images/2.png" width="45%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+</p>
+
+<p align="center">
+  <img src="images/3.png" width="45%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="images/4.png" width="45%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+</p>
+
+<p align="center">
+  <img src="images/5.png" width="45%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="images/6.png" width="45%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+</p>
 
 ## ✨ Features
 

@@ -146,12 +146,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 > 🔗 **Github Page:** [Visit the Website!](https://draftgamz.github.io/Portfolio-V-1-Public-Beta/)
 > 💻 **Repo Link:** [Portfolio V1 Public Beta](https://github.com/Draftgamz/Portfolio-V-1-Public-Beta)
 ---
-
-### Optional:
-
-To fully use the new **Screenshots section**, add these two files inside your repo:
-
-* `screenshots/light.png`
-* `screenshots/dark.png`
-
----

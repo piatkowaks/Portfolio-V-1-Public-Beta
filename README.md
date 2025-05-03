@@ -77,7 +77,7 @@ Feel free to explore, get inspired, and **connect** with me! 🤝✨
 
 | Technology                                                                                        | Why I Chose It                                                    |
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-|  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)                   | Flexible, powerful styling with modern features (Flexbox & Grid). |
+|  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)                   | Flexible, powerful styling with modern features. |
 |  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript\&logoColor=white) | Static typing for more reliable, maintainable code.               |
 |  ![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)                | Component-driven architecture and fast rendering.                 |
 |  ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite\&logoColor=white)                    | Blazing-fast bundling and hot module replacement.                 |

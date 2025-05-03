@@ -143,6 +143,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## ⭐ Don't forget to leave a star if you like it! ⭐
 
-> 🔗 **Github Page:** [Visit the Website!](https://draftgamz.github.io/Portfolio-V-1-Public-Beta/)
 > 💻 **Repo Link:** [Portfolio V1 Public Beta](https://github.com/Draftgamz/Portfolio-V-1-Public-Beta)
 ---

@@ -1,146 +1,130 @@
-# 🌐 My Personal Portfolio Website
+# Portfolio V1 - Public Beta 🚀
 
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![Built with Vite](https://img.shields.io/badge/built%20with-Vite-yellow)](https://vitejs.dev/)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Draftgamz.portfolio-v-6)
-![Last Commit](https://img.shields.io/github/last-commit/Draftgamz/portfolio-v-6)
-![Repo Size](https://img.shields.io/github/repo-size/Draftgamz/portfolio-v-6)
-![Issues](https://img.shields.io/github/issues/Draftgamz/portfolio-v-6)
+Welcome to the **Portfolio V1 - Public Beta**! This repository contains a sleek, fully responsive personal portfolio website built with React, TypeScript, and Vite. It showcases projects, skills, and achievements with a modern UI/UX design.
 
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)](https://github.com/piatkowaks/Portfolio-V-1-Public-Beta/releases)
 
-Welcome to my **Personal Portfolio Website** — your one-stop showcase of my growth, creativity, and passion as a web developer! 🚀
-Dive in to discover my **projects**, **skills**, and **achievements**, all crafted with dedication, clean code, and a dash of personality.
-Designed for a seamless experience, it’s fully responsive, modern, and easy to navigate—just like great software should be.
+## Table of Contents
 
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Folder Structure](#folder-structure)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Feel free to explore, get inspired, and **connect** with me! 🤝✨
+## Features 🌟
 
----
-# My Project Showcase🎁
+- **Responsive Design**: The portfolio adjusts seamlessly across devices.
+- **Dark Mode**: Switch between light and dark themes for a comfortable viewing experience.
+- **Project Showcase**: Highlight your best work with detailed project descriptions.
+- **Skill Section**: Display your technical skills clearly and attractively.
+- **Modern UI/UX**: Enjoy a clean and intuitive user interface.
 
-Here are some previews of the project:
+## Technologies Used 🛠️
 
-<p align="center">
-  <img src="Images/1.png" width="45%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-  <img src="Images/2.png" width="45%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-</p>
+- **React**: A JavaScript library for building user interfaces.
+- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- **Vite**: A fast build tool that provides a modern development experience.
+- **CSS**: For styling and layout.
+- **Responsive Design**: Ensures compatibility across devices.
 
-<p align="center">
-  <img src="Images/3.png" width="45%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-  <img src="Images/4.png" width="45%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-</p>
+## Getting Started 🚀
 
-<p align="center">
-  <img src="Images/5.png" width="45%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-  <img src="Images/6.png" width="45%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-</p>
+To get started with this project, follow these steps:
 
-## ✨ Features
-
-* 📱 **Responsive & Mobile-First**
-  Adapts beautifully to phones, tablets, and desktops.
-
-* 🎨 **Sleek UI/UX**
-  Clean layouts, intuitive navigation, and smooth transitions.
-
-* 🗂️ **Project Showcase**
-  Detailed galleries with screenshots, live demos, and tech stacks.
-
-* 🙋 **About Me**
-  A snapshot of my journey, skills, experience, and what drives me forward.
-
-* 📬 **Contact & Connect**
-  Built-in form, social media links, and direct email — I’m always open to chat!
-
----
-
-## 🚀 Getting Started
-
-1. **Clone the repo**
-
+1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Draftgamz/portfolio-v-6.git
-   cd portfolio-v-6
+   git clone https://github.com/piatkowaks/Portfolio-V-1-Public-Beta.git
    ```
 
-2. **Install dependencies**
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd Portfolio-V-1-Public-Beta
+   ```
 
+3. **Install Dependencies**:
    ```bash
    npm install
    ```
 
-3. **Start the dev server**
-
+4. **Run the Development Server**:
    ```bash
    npm run dev
    ```
 
-4. **Build for production**
+5. **Open Your Browser**:
+   Navigate to `http://localhost:3000` to view your portfolio.
 
+## Folder Structure 📂
+
+Here’s a quick overview of the folder structure:
+
+```
+Portfolio-V-1-Public-Beta/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── styles/
+│   └── App.tsx
+├── package.json
+└── tsconfig.json
+```
+
+- **public/**: Contains static files like `index.html` and icons.
+- **src/**: The main source code of the application.
+- **components/**: Reusable components for the portfolio.
+- **pages/**: Different pages of the portfolio.
+- **styles/**: CSS files for styling.
+
+## Usage 📖
+
+Once the server is running, you can:
+
+- View your portfolio in a web browser.
+- Modify the content in the `src/pages` and `src/components` directories.
+- Customize styles in the `src/styles` directory.
+
+Feel free to add new projects or skills as you grow.
+
+## Contributing 🤝
+
+We welcome contributions! If you would like to help improve this project, please follow these steps:
+
+1. **Fork the Repository**: Click the "Fork" button at the top right.
+2. **Create a New Branch**:
    ```bash
-   npm run build
+   git checkout -b feature/YourFeatureName
    ```
-
-5. **Preview the production build**
-
+3. **Make Your Changes**: Edit the files as needed.
+4. **Commit Your Changes**:
    ```bash
-   npm run preview
+   git commit -m "Add your message here"
    ```
+5. **Push to Your Branch**:
+   ```bash
+   git push origin feature/YourFeatureName
+   ```
+6. **Create a Pull Request**: Go to the original repository and click on "New Pull Request".
 
----
+## License 📄
 
-## 🛠️ Built With
+This project is licensed under the MIT License. Feel free to use it as you wish.
 
-| Technology                                                                                        | Why I Chose It                                                    |
-| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-|  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)                   | Flexible, powerful styling with modern features. |
-|  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript\&logoColor=white) | Static typing for more reliable, maintainable code.               |
-|  ![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)                | Component-driven architecture and fast rendering.                 |
-|  ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite\&logoColor=white)                    | Blazing-fast bundling and hot module replacement.                 |
+## Contact 📬
 
----
+For questions or feedback, please reach out:
 
-## 📖 Roadmap
+- **Email**: your.email@example.com
+- **GitHub**: [piatkowaks](https://github.com/piatkowaks)
 
-* ✅ Responsive layout
-* ✅ Dark/light theme toggle
-* 🚧 Blog section with tutorials
-* 🚀 Automated deployment (GitHub Pages / Netlify)
-* 🧪 Unit tests & CI pipeline
+Thank you for checking out the **Portfolio V1 - Public Beta**! 
 
----
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)](https://github.com/piatkowaks/Portfolio-V-1-Public-Beta/releases)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-1. Fork it
-2. Create your feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -am 'Add your feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">
-  <a href="https://github.com/Draftgamz/portfolio-v-6">
-    <img src="https://img.shields.io/github/forks/Draftgamz/portfolio-v-6?style=social" alt="Forks">
-  </a>
-  <a href="https://github.com/Draftgamz/portfolio-v-6">
-    <img src="https://img.shields.io/github/stars/Draftgamz/portfolio-v-6?style=social" alt="Stars">
-  </a>
-</p>
-
----
-
-## ⭐ Don't forget to leave a star if you like it! ⭐
-
-> 💻 **Repo Link:** [Portfolio V1 Public Beta](https://github.com/Draftgamz/Portfolio-V-1-Public-Beta)
----
+Explore the "Releases" section for updates and new features!
